@@ -1,3 +1,5 @@
+[original repository](https://github.com/architpanigrahi/super-alice-protocol)
+
 # Technical Specification Document
 
 ## Project Title: Super Alice - Satellite Networking Protocol
